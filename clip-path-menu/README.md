@@ -1,4 +1,4 @@
-## Menu example based on `clip-path` property
+## Menu based on `clip-path` property
 
 <a href="">Demo</a>
 
