@@ -1,6 +1,6 @@
 ## Menu based on `clip-path` property
 
-<a href="">Demo</a>
+<a href="http://forbrace.github.io/components/clip-path-menu/">Demo</a>
 
 ### Related articles
 * <a href="http://docs.webplatform.org/wiki/css/properties/clip-path">clip-path on WPD</a>
